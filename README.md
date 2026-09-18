@@ -14,7 +14,7 @@ Which products, regions, and months drive sales and profit, and where should lea
 - 500 transaction-level orders across 2024–2025
 - Fields include region, city, customer segment, channel, product, discount, sales, cost, and profit
 
-## Key results to discuss
+## Key results 
 - Total sales: **$653,629**
 - Total profit: **$240,016** (36.7% margin)
 - Technology is the largest sales category.
@@ -27,8 +27,6 @@ Which products, regions, and months drive sales and profit, and where should lea
 `sql/` analysis queries  
 `powerbi/` DAX measures and report build guide
 
-## How to explain the project
+##  Project explain 
 “I analyzed 500 retail sales transactions. I used SQL to check data quality and calculate sales, profit, margin, and regional/product performance. I used Excel to validate the data and build an executive dashboard. I then loaded the same CSV into Power BI, created DAX measures, and designed an interactive dashboard with time, geography, category, and channel filters. The goal was to identify the revenue leaders and highlight where discounts and costs could pressure profitability.”
 
-## Refresh
-Replace `data/sales_transactions.csv` with new data using the same columns, rerun the SQL scripts, refresh the Excel table, and refresh Power BI.
